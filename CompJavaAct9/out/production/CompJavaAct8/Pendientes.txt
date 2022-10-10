@@ -1,0 +1,21 @@
+[+] Prueba 1 de tomar mano: tomaar mano hasta ya no mas
+[+] Prueba 2 de tomar mano: tomar mano cuando quedan 5
+[+] Prueba 3 de tomar mano: tomar mano cuando quedan menos de 5
+
+[+] Prueba 1 de shuffle: se randomiza cada vez que se hace (5 randoms con 5 primeros valores)
+[+] Prueba 2 de shuffle: cuando hay 1
+[+] Prueba 3 de shuffle: deck vacio
+
+[+] Prueba 1 de Head: Head en la ultima carta
+[+] Prueba 2 de Head: Head con las verdaderas primeras cartas
+
+[+] Prueba 1 de Pick: Pick en la ultima carta
+[+] Prueba 2 de Head: Pick buscando que no coincidan exactamente con todos los primeros 5
+
+[+] Prueba: SIN REPETICIONES: No se repiten las cartas al seleccionarlas (Progreso actual: 3 de 3 tiradas sin repeticiones)
+[+] Prueba INTERCALADO: Se puede intercalar entre Heads y Picks y el programa funciona bien
+
+Limpieza
+[+] Comentar DeckV2
+[+] Eliminar Deck y refactor DeckV2
+[] Archivo con explicaciones
