@@ -4,10 +4,10 @@ public class Main
 {
     public static void main(String[] args)  //Metodo Main
     {
-        MenuActividad8();
+        showMenu();
     }
 
-    public static void MenuActividad8()     //Permite poder implementar el JOptionPane al método main
+    public static void showMenu()     //Permite poder implementar el JOptionPane al método main
     {
         Deck baraja = new Deck();   //Se crea un objeto de tipo Deck que se usará para el programa
 
