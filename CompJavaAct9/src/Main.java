@@ -76,6 +76,7 @@ public class Main
 
                 default:
                     JOptionPane.showMessageDialog(null,"Comando no reconocido, vuelva a intentarlo", "ACTIVIDAD 9 Baraja Poker v2.0", JOptionPane.ERROR_MESSAGE);
+                    accionValida = false;
                     break;
             }
         }
